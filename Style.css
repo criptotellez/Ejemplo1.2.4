@@ -1,0 +1,39 @@
+
+
+
+#unico {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    display: block;
+
+}
+
+p{
+
+    font-family: Arial;
+
+    font-size: 10px;
+
+}
+
+h1{
+
+    text-align: center;
+
+
+
+}
+
+#parrafoID{
+
+    font-family: Helvetica;
+
+    font-size: 20px;
+
+
+
+}
